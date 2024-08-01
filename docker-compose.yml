@@ -19,7 +19,7 @@ services:
     
     #Definir variable de entorno
     environment:
-      VITE_API_URL: http://localhost:3000
+      VITE_API_URL: http://64.227.96.240:3000
 
   #backend contenedor    
   api:
